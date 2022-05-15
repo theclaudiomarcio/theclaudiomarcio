@@ -1,6 +1,6 @@
-## Olá! Eu sou o Claudio Marcio, estudante de front-end!
+## Olá! Eu sou o Claudio Marcio!
 
-- 🌱 Estudando Javascript
+- 🌱 Estudando Java
 - 🖥️ Apaixonado por tecnologia
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
