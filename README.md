@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Claudio Marcio!
 
-- 🌱 Estudando Java
+- 🌱 Estudante de Java
 - 🖥️ Apaixonado por tecnologia
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
