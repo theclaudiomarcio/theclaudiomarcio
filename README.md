@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Claudio Marcio!
 
+Quando faltar sorte, faça sobrar atitude. O azar morre de medo de pessoas determinadas.
+
 - 🌱 Estudante de Java e Kotlin
 - 🖥️ Apaixonado por tecnologia
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
