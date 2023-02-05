@@ -2,7 +2,7 @@
 
 Quando faltar sorte, faça sobrar atitude. O azar morre de medo de pessoas determinadas.
 
-- 🌱 Estudante de Java
+- 🌱 Analista de Testes (QA)
 - 🖥️ Apaixonado por tecnologia
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
