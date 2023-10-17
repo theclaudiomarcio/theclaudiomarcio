@@ -7,7 +7,6 @@ Quando faltar sorte, faça sobrar atitude. O azar morre de medo de pessoas deter
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/TheClaudioMarcio">
-  <img height="141em" src="https://github-readme-stats.vercel.app/api?username=TheClaudioMarcio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="139em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheClaudioMarcio&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
