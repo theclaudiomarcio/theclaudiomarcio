@@ -21,9 +21,7 @@ Quando faltar sorte, faça sobrar atitude. O azar morre de medo de pessoas deter
   <h3 align="left">Testing Tools:</h3>
   
 </a> <img alt="selenium" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
-</a> <img alt="appium" height="40" width="40" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
 </a>  <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
-</a> <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 </div>
   
