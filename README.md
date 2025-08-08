@@ -3,7 +3,7 @@
 Quando faltar sorte, faça sobrar atitude. O azar morre de medo de pessoas determinadas.
 
 - 🖥️ Analista de Testes (QA)
-- 🤖 Automação e Back-End
+- 🤖 Automação
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/TheClaudioMarcio">
